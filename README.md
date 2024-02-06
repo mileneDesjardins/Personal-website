@@ -1,4 +1,5 @@
 <h1>Site web personnel</h1>
+lien : https://milenedesjardins.github.io/Personal-website/
 <h2>Description du projet</h2>
 
 Le but de ce projet était de développer un site Web personnel. Le site Web est construit en utilisant du HTML et CSS. Il devait être visuellement attrayant, facile à naviguer et fournir des informations pertinentes sur moi-même et mon parcours.
